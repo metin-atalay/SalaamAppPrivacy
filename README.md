@@ -1,4 +1,4 @@
-# SalaamAppPrivacy
+# SalaamApp Privacy Policy
 
 At SalaamApp, we are committed to protecting your privacy and ensuring the security of your personal information. This privacy policy outlines how we collect, use, and safeguard the data you provide while using our app.
 
